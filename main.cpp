@@ -76,7 +76,7 @@ unsigned long long int dive(string initialPath, signed short int depth, bool out
 }
 
 int main() {
-    string initialPath = "C:\\Users\\lukas";
+    string initialPath = "D:\\Filer\\Repos";
 
     cout << initialPath << endl;
 

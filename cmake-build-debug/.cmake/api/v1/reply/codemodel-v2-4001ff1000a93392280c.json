@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/lukas/Desktop/Repositories/DirSizeStat/cmake-build-debug",
-		"source" : "C:/Users/lukas/Desktop/Repositories/DirSizeStat"
+		"build" : "D:/Filer/Repos/DirStat/cmake-build-debug",
+		"source" : "D:/Filer/Repos/DirStat"
 	},
 	"version" : 
 	{
