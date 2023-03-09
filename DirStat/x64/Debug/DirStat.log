@@ -1,4 +1,0 @@
-﻿C:\Users\lukas\Desktop\Repositories\DirStat\DirStat\DirStat.c(34,49): warning C4047: 'function': 'wchar_t *' differs in levels of indirection from 'WCHAR (*)[260]'
-C:\Users\lukas\Desktop\Repositories\DirStat\DirStat\DirStat.c(34,30): warning C4024: 'depthPrint': different types for formal and actual parameter 2
-C:\Users\lukas\Desktop\Repositories\DirStat\DirStat\DirStat.c(49,22): warning C4047: 'function': 'wchar_t *' differs in levels of indirection from 'const wchar_t (*)[34]'
-C:\Users\lukas\Desktop\Repositories\DirStat\DirStat\DirStat.c(49,16): warning C4024: 'readDirectory': different types for formal and actual parameter 1
